@@ -11,20 +11,7 @@
 } */
 
 /* Interactuamos con el html */
-/* function calcularPerimetroCuadrado() {
-    const input = document.getElementById("InputCuadrado");
-    const value = input.value;
-  
-    const perimetro = perimetroCuadrado(value);
-    alert(perimetro);
-  }
-  function calcularAreaCuadrado() {
-    const input = document.getElementById("InputCuadrado");
-    const value = input.value;
-  
-    const area = areaCuadrado(value);
-    alert(area);
-  } */
+
 
 function CalcularAltura(){
     const lado1=document.getElementById("lad1").value;
